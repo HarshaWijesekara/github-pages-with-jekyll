@@ -1,4 +1,4 @@
-title: "What is AI?"
+title: "What is AI"
 date: 2022-07-06
 
 I am Harsha Wijesekara.
